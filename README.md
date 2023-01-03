@@ -16,9 +16,9 @@ There are two allowable combinations of ball racks.  As you can see in the image
   ![](right-handed-rack.jpg)
 # Choosing the Breaker
 The breaker can be determined in a number of different ways.  The goal is to make it fun for your group.  Feel free to use any of the methods listed below or make up your own mechanism to select the initial breaker.
-- Rock-Paper-Scissors
-- Staring Contest
-- Flip-A-Coin
+- [Rock Paper Scissors](https://en.wikipedia.org/wiki/Rock_paper_scissors)
+- [Staring Contest](https://en.wikipedia.org/wiki/Staring#Staring_contests)
+- [Flip-A-Coin](https://en.wikipedia.org/wiki/Coin_flipping)
 
 # Open Table
 The table is considered open at the start of each game.  The rack is considered not broken until either the #1 ball or the #9 ball has been fully moved out of it's original rack position.
