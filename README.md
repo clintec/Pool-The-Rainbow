@@ -10,10 +10,10 @@ This game is targeted for either 2 players or 2 teams of players.  The processes
 There are two allowable combinations of ball racks.  As you can see in the images for each rack, the colors of the balls make up the rainbow.  The two racks are called left-handed and right-handed racks.  All balls MUST be in one of these two orders.  Historically, the method of selecting which rack to use was based off of the individual performing the rack.  If they were left hand dominant, they would choose the left handed rack.  Ultimately, it doesn't matter which rack is selected, but it must be one of the following.
 ## Left Handed Rack ##
    Note that with a Left Handed Rack, the #3 ball is on the left.
-  <left-handed-rack-image>
+  ![](left-handed-rack.jpg)
 ## Right Handed Rack ##
   Note that with a Left Handed Rack, the #3 ball is on the right.
-  <right-handed-rack-image>
+  ![](right-handed-rack.jpg)
 # Choosing the Breaker
 The breaker can be determined in a number of different ways.  The goal is to make it fun for your group.  Feel free to use any of the methods listed below or make up your own mechanism to select the initial breaker.
 - Rock-Paper-Scissors
