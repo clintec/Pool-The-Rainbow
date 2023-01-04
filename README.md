@@ -62,7 +62,7 @@ The game can be tied only by the underdog sinking the last ball of their own des
 As the shooter, the player should look for easy opportunities for an automatic win.  In the following image, notice how the #8 & #9 balls are next to each other and in line with the cue ball for a shot in the corner pocket. 
   ![](shooter-quickwin-1.jpg)
   
-If the shooter is able to close the table by sinking the #9 ball while also sinking the #8 ball on the same shot, it will result in an automatic win for the shooter.  If the shooter takes this strink but only sinks the #8 ball it will result in a loss for the shooter.
+If the shooter is able to close the table by sinking the #9 ball while also sinking the #8 ball on the same shot, it will result in an automatic win for the shooter.  If the shooter takes this strike but only sinks the #8 ball it will result in a loss for the shooter.
   ![](shooter-quickwin-2.jpg)
   
 ## Contenter Out-of-Order Ball
