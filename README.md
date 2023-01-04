@@ -48,6 +48,8 @@ During this round, the contender must ***move*** the lowest available ball of th
 During the sudden death round, the contender may target any balls of the other player.  As long as the contender sinks a ball, they will retain their turn until such time as all balls have been sunk, they scratch or they fail to sink a ball.  If the contender sinks the last remaining ball the game will end with a win for the contender.
 ## Underdog's Turn ##
 During the underdog's turn, they must continue to sink the lowest possible ball of their color.  They will retain their turn until such time as all balls have been sunk, they scratch or fail to the sink the next lowest available ball of their color.  If the underdog sinks the last remaining ball, the game will end in a tie.
+## Both Players are Contenders
+It is also possible that the game is taken into sudden death by which both players sink each of the own designated colored balls before either player is able to sink the #8 ball.  In this scenario, both players will be designated as a contender.  The first player to sink the #8 ball without scratching will win.  If one of the contenders commits a scratch during this special sudden death round, that contender will loose.
 # Winning the Game
 The game can be won in a number of different ways.  The following are the ways in which the game can be won.
 * The #8 ball is sunk by the breaker of the rack during the breaking shot.  The breaker will be designated as the winner.
@@ -55,6 +57,8 @@ The game can be won in a number of different ways.  The following are the ways i
 * The #8 ball is sunk by the shooter during the shooting round without closing the table.  This will result in the non-shooting player being designated as the winner.
 * The #8 ball is sunk during any other round of play without also sinking all balls of the current players designated color.  The non-current player will be designated as the winner.
 * The contender sinking the last remaining ball of the underdog's designated color.
+* During a two-contender Sudden Death round, one of the players sinks the #8 ball without commiting a scratch, that player will win.
+* During a two-contender Sudden Death round, one of the players commits a scratch, that player will loose.
 # Tying the Game
 The game can be tied only by the underdog sinking the last ball of their own designed color.
 # Strategies
