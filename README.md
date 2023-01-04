@@ -72,6 +72,7 @@ The game can be tied only by the underdog sinking the last ball of their own des
 * Scratching
   >A scratch is defined as anytime the general rules of a turn are violated.  This can be any of the following
   * Striking the cue ball in such a manner that causes it (or another ball) to leave the table.
+  * Sinking the Cue ball.
   * Not moving either the #1 or the #9 ball during the breaking round.
   * Not moving either the #1 or the #9 ball during the shooting round, while also not sinking another (non-#8) ball.
   * Not moving the the lowest available numbered ball of the current players designated color, while also not sinking another ball.  This rule does not apply to the contender during the sudden death round, but does apply to the underdog.
