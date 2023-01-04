@@ -2,6 +2,7 @@
 Family Friendly Billards Game for All Skill Levels (a.k.a.  Skittles)
 This game was created during the global COVID-19 Pandemic in the year 2020 by Chris Cline. 
 It was nicknamed "Skittles" by Madelyn Cline, due to the colorful nature of the ball pattern.
+  ![](PoolTheRainbow.jpg)
 # Overview
 Pool The Rainbow is a billards game designed to put players of different skill levels on a more equal playing field.  It does so by allowing some features that are generally disallowed in regular billard games; slop, out of order balls, ball combinations, etc.  Since it allows more flexibility in how a player's turn can be played, it also creates some interesting strategies where you can intentionally block subsequent players from being successful during their turns.
 
@@ -67,6 +68,7 @@ The game can be tied only by the underdog sinking the last ball of their own des
   During the Sudden Death Round, the contender is the player who has sunk all of the balls within their designated color as well as the #8 community ball.  This player can win the game by sinking the last remaining ball for the underdog.
 * Kitchen
   The kitchen is the location on the table opposite the racked set of balls behind the first 2 series of dots.  When required to place the cue ball within the kitchen, the cue can be set down anywhere behind the first two series of dots.  On a breaking shot or immediately following a scratch, the cue ball must be struck in a manner in which it leaves the kitchen area ***prior*** to striking another ball.
+  ![](kitchen.png)
 * Scratching
   A scratch is defined as anytime the general rules of a turn are violated.  This can be any of the following
   ** Striking the cue ball in such a manner that causes it (or another ball) to leave the table.
