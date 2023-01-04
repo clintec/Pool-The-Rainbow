@@ -61,9 +61,9 @@ The game can be tied only by the underdog sinking the last ball of their own des
 * Breaker
   The breaker is the current player responsible for targeting the rack with the cue ball while the table is considered open and the rack has not been broken.  This individual is responsible for striking the cue ball in such a manner that it will ***move*** either the #1 ball or the #9 ball out of their original location by a substantial margin, ultimately defined by the width of the ball.
 * Contender
-  ** Contender Round
+  * Contender Round
   During the the Contender Round, the contender is identified as the current player.
-  ** Suddend Death Round
+  * Suddend Death Round
   During the Sudden Death Round, the contender is the player who has sunk all of the balls within their designated color as well as the #8 community ball.  This player can win the game by sinking the last remaining ball for the underdog.
 * Kitchen
   The kitchen is the location on the table opposite the racked set of balls behind the first 2 series of dots.  When required to place the cue ball within the kitchen, the cue can be set down anywhere behind the first two series of dots.  On a breaking shot or immediately following a scratch, the cue ball must be struck in a manner in which it leaves the kitchen area ***prior*** to striking another ball.
