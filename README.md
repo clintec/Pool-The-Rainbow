@@ -65,7 +65,7 @@ As the shooter, the player should look for easy opportunities for an automatic w
 If the shooter is able to close the table by sinking the #9 ball while also sinking the #8 ball on the same shot, it will result in an automatic win for the shooter.  If the shooter takes this strike but only sinks the #8 ball it will result in a loss for the shooter.
   ![](shooter-quickwin-2.jpg)
   
-## Contenter Out-of-Order Ball
+## Contender Out-of-Order Ball
 This is a simple strategy to allow the current contender to sink balls out of order when they do not have a clear shot at their current lowest available ball.  For this strategy, the contender will simply sink another ball of their designated color.  If, during sinking this other ball, the shooter fails to move their lowest available ball it will result in a scratch.  Generally, when leveraging this strategy, the shooter is trading a scratch for the sinking of one of their remaining balls.
 # Definitions
 * Breaker
