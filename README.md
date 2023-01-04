@@ -82,7 +82,9 @@ The game can be tied only by the underdog sinking the last ball of their own des
   >This is a general term for striking the cue ball without any intentional target or strategy and simply letting the balls do what they will.  This is always allowed, but could result in a scratch based on the scratch rules.
 * solids
   >The color of *solids* is the designation for the player who is responsible for the balls numbered 1 - 7.  The number 8 ball is a community ball.
+  ![](solids.jpg)
 * stripes
   >The color of *stripes* is the designation for the player who is responsible for the balls numbered 9 - 15.  The number 8 ball is a community ball.
+  ![](stripes.jpg)
 * Underdog
   >The underdog is the player who is defending their balls from being sunk by the contender during the Sudden Death Round.  If the underdog is able to sink the last remaining ball of their designated color before the contender can, then the game will end in a tie.
