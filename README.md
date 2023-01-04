@@ -60,28 +60,28 @@ The game can be tied only by the underdog sinking the last ball of their own des
 # Strategies :: TODO
 # Definitions
 * Breaker
-  The breaker is the current player responsible for targeting the rack with the cue ball while the table is considered open and the rack has not been broken.  This individual is responsible for striking the cue ball in such a manner that it will ***move*** either the #1 ball or the #9 ball out of their original location by a substantial margin, ultimately defined by the width of the ball.
+  >The breaker is the current player responsible for targeting the rack with the cue ball while the table is considered open and the rack has not been broken.  This individual is responsible for striking the cue ball in such a manner that it will ***move*** either the #1 ball or the #9 ball out of their original location by a substantial margin, ultimately defined by the width of the ball.
 * Contender
   * Contender Round
-  During the the Contender Round, the contender is identified as the current player.
+    >During the the Contender Round, the contender is identified as the current player.
   * Suddend Death Round
-  During the Sudden Death Round, the contender is the player who has sunk all of the balls within their designated color as well as the #8 community ball.  This player can win the game by sinking the last remaining ball for the underdog.
+    >During the Sudden Death Round, the contender is the player who has sunk all of the balls within their designated color as well as the #8 community ball.  This player can win the game by sinking the last remaining ball for the underdog.
 * Kitchen
-  The kitchen is the location on the table opposite the racked set of balls behind the first 2 series of dots.  When required to place the cue ball within the kitchen, the cue can be set down anywhere behind the first two series of dots.  On a breaking shot or immediately following a scratch, the cue ball must be struck in a manner in which it leaves the kitchen area ***prior*** to striking another ball.
+  >The kitchen is the location on the table opposite the racked set of balls behind the first 2 series of dots.  When required to place the cue ball within the kitchen, the cue can be set down anywhere behind the first two series of dots.  On a breaking shot or immediately following a scratch, the cue ball must be struck in a manner in which it leaves the kitchen area ***prior*** to striking another ball.
   ![](kitchen.png)
 * Scratching
-  A scratch is defined as anytime the general rules of a turn are violated.  This can be any of the following
+  >A scratch is defined as anytime the general rules of a turn are violated.  This can be any of the following
   ** Striking the cue ball in such a manner that causes it (or another ball) to leave the table.
   ** Not moving either the #1 or the #9 ball during the breaking round.
   ** Not moving either the #1 or the #9 ball during the shooting round, while also not sinking another (non-#8) ball.
   ** Not moving the the lowest available numbered ball of the current players designated color, while also not sinking another ball.  This rule does not apply to the contender during the sudden death round, but does apply to the underdog.
 * Shooter
-  The shooter is the current player responsible for targeting the balls on an open table after the rack has been broken, but before colors have been designated.  The shooter will need to sink either the #1 or the #9 ball in order to designate a color for themself.
+  >The shooter is the current player responsible for targeting the balls on an open table after the rack has been broken, but before colors have been designated.  The shooter will need to sink either the #1 or the #9 ball in order to designate a color for themself.
 * Slop
-  This is a general term for striking the cue ball without any intentional target or strategy and simply letting the balls do what they will.  This is always allowed, but could result in a scratch based on the scratch rules.
+  >This is a general term for striking the cue ball without any intentional target or strategy and simply letting the balls do what they will.  This is always allowed, but could result in a scratch based on the scratch rules.
 * solids
-  The color of *solids* is the designation for the player who is responsible for the balls numbered 1 - 7.  The number 8 ball is a community ball.
+  >The color of *solids* is the designation for the player who is responsible for the balls numbered 1 - 7.  The number 8 ball is a community ball.
 * stripes
-  The color of *stripes* is the designation for the player who is responsible for the balls numbered 9 - 15.  The number 8 ball is a community ball.
+  >The color of *stripes* is the designation for the player who is responsible for the balls numbered 9 - 15.  The number 8 ball is a community ball.
 * Underdog
-  The underdog is the player who is defending their balls from being sunk by the contender during the Sudden Death Round.  If the underdog is able to sink the last remaining ball of their designated color before the contender can, then the game will end in a tie.
+  >The underdog is the player who is defending their balls from being sunk by the contender during the Sudden Death Round.  If the underdog is able to sink the last remaining ball of their designated color before the contender can, then the game will end in a tie.
