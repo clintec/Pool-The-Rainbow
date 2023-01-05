@@ -91,6 +91,7 @@ This is a strategy that may assist the underdog with capturing a tie.  For this 
   * Not moving either the #1 or the #9 ball during the breaking round.
   * Not moving either the #1 or the #9 ball during the shooting round, while also not sinking another (non-#8) ball.
   * Not moving the the lowest available numbered ball of the current players designated color.  This rule does not apply to the contender during the sudden death round, but does apply to the underdog.
+  * Note: Scratching during the Contender Round when the current player's next ball is the #8 will not result is loss of the game, just loss of the turn.
 * Shooter
   >The shooter is the current player responsible for targeting the balls on an open table after the rack has been broken, but before colors have been designated.  The shooter will need to sink either the #1 or the #9 ball in order to designate a color for themself.
 * Slop
